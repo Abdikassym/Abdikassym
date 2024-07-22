@@ -6,8 +6,10 @@
 
 - 🔭 I’m currently working on Financial Advisor Telegram Bot
 - 🌱 I’m currently learning FastAPI
-- 🤔 I’m looking for help with finding first job
+- 🤔 I’m looking for help with finding my first job
 - 📫 How to reach me: @abdikasymt@gmail.com 
 
+
+
   
-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
