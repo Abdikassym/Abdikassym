@@ -3,11 +3,10 @@
 <h3 align="center">Python developer with big dreams from Kazakhstan</h3>
 
 
-
-- 🔭 I’m currently working on Financial Advisor Telegram Bot
-- 🌱 I’m currently learning FastAPI
-- 🤔 I’m looking for help with customizing my github page
-- 📫 How to reach me: abdikasymt@gmail.com 
+<p align="center">- 🔭 I’m currently working on Financial Advisor Telegram Bot </p>
+<p align="center">- 🌱 I’m currently learning FastAPI </p>
+<p align="center">- 🤔 I’m looking for help with customizing my github page </p>
+<p align="center">- 📫 How to reach me: abdikasymt@gmail.com </p>
 
 <br>
 
