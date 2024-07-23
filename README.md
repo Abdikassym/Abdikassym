@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Financial Advisor Telegram Bot
 - 🌱 I’m currently learning FastAPI
-- 🤔 I’m looking for help with finding my first job
+- 🤔 I’m looking for help with customizing my github page
 - 📫 How to reach me: abdikasymt@gmail.com 
 
 
